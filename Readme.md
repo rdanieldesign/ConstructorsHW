@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Iron Yard Assignment 11
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Homework assignment for creating JavaScript constructors that allowed pre-defined instances of these constructors to pass pre-defined tests.
